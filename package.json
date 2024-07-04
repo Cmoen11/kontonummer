@@ -1,5 +1,6 @@
 {
   "name": "kontonummer",
+  "type": "module",
   "version": "4.0.1",
   "description": "A validator for swedish banking numbers",
   "author": "Svante Bengtson <svante@swantzter.se> (https://swantzter.se)",
